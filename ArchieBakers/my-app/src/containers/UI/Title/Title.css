@@ -1,0 +1,26 @@
+.TitleName{
+
+    font-family: 'Kaushan Script','Pacifico', cursive,'Monoton', cursive;
+    color:palevioletred;
+    font-size: 100px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    animation:text 3s 1;
+}
+
+@keyframes text{
+    0%{
+        
+        font-size:105px;
+    }
+30%{
+    
+    font-size:108px;
+}
+85%{
+    font-style:105px;
+    
+}
+}

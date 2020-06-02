@@ -1,0 +1,18 @@
+.CakeParent{
+position: absolute;
+    top:10%;
+    z-index: 3;
+
+}
+
+
+.CakeBox{
+
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: absolute;
+    top:20%;
+    margin-left: 3%;
+    z-index: 3;
+}

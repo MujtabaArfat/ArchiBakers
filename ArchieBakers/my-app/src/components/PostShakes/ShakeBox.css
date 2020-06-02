@@ -1,0 +1,17 @@
+.ShakeBox{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 14%;
+   
+}
+
+.PageBox{
+
+    margin-left: 40%;
+}
+
+.ParentShakeBox{
+    position: absolute;
+    top:25%;
+}

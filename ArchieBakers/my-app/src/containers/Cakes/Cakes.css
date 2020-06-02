@@ -1,0 +1,10 @@
+.Backdrop{
+    background-color: antiquewhite;
+    opacity: 0.5;
+}
+
+.BlackTint{
+    width:100%;
+    height:100%;
+    background-color: black;
+}

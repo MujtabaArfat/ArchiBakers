@@ -1,0 +1,23 @@
+.FormBox2{
+    
+    width:50%;
+    height:70%;
+    z-index:6;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    padding:10px 10px;
+    border-radius: 5% 5%;
+    box-shadow: 0 8px 6px -6px black;
+    color:palevioletred;
+    background-color: white;
+
+}
+.LoginBox{
+    width:100vw;
+    height:100vh;
+    filter: blur(2px);
+ 
+    z-index: -3;
+}
